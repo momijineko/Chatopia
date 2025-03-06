@@ -1,0 +1,26 @@
+{
+  "@@locale": "zh_CN",
+  "en": "English",
+  "zh_CN": "简体中文",
+
+  "appTitle": "AI 聊天",
+  "newTopic": "新话题",
+  "settings": "设置",
+  "chatPageTitle": "聊天",
+
+  "modelSettings": "模型配置",
+  "appearanceSettings": "界面设置",
+  "modelProvider": "模型服务商",
+  "language": "语言",
+  "dateFormat": "yyyy年M月d日",
+  "@dateFormat": {
+    "description": "日期格式，用于显示年、月、日"
+  },
+  "today": "今天",
+  "timeFormat": "HH:mm",
+
+  "systemTheme": "跟随系统",
+  "lightTheme": "浅色",
+  "darkTheme": "深色",
+  "theme": "主题"
+}

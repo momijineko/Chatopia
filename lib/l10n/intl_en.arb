@@ -1,0 +1,26 @@
+{
+    "@@locale": "en",
+    "en": "English",
+    "zh_CN": "简体中文",
+
+    "appTitle": "AI Chat",
+    "newTopic": "New Topic",
+    "settings": "Settings",
+    "chatPageTitle": "Chat",
+
+    "modelSettings": "Model Settings",
+    "appearanceSettings": "Appearance Settings",
+    "modelProvider": "Model Provider",
+    "language": "Language",
+    "dateFormat": "MMMM d, y",
+    "@dateFormat": {
+        "description": "Date format for English locale, e.g., 'October 5, 2023'"
+    },
+    "today": "Today",
+    "timeFormat": "HH:mm",
+
+    "systemTheme": "System",
+    "lightTheme": "Light",
+    "darkTheme": "Dark",
+    "theme": "Theme"
+}
